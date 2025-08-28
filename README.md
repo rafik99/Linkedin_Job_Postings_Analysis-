@@ -119,4 +119,4 @@ It demonstrates expertise in data wrangling, visualization, and storytelling wit
 - Create an interactive dashboard (Power BI / Tableau)
 
 👨‍💻 Author: Mahammad Rafik Bellamkonda
-🔗 [Linkedln](https://x.com/Rafiq_9901?t=1IW7N-rh2-Pz494rrTAp5Q&s=09) 
+🔗 [Linkedln](https://www.linkedin.com/in/mahammad-rafik-219623202?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
