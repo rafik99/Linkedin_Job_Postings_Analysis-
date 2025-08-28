@@ -1,0 +1,12 @@
+
+REQUIREMENTS
+Languages & Frameworks:-
+pandas
+python
+numpy
+matplotlib
+seaborn
+wordcloud
+jupyter
+
+
