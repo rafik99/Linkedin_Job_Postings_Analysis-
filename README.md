@@ -76,7 +76,9 @@ How sponsored postings differ from non-sponsored ones
 **3️⃣ Visualizations**
 
 📌 Bar Charts – Top companies & job titles
+
 📌 Pie Chart – Sponsored vs non-sponsored jobs
+
 📌 Word Cloud – Skills demand
 
 ***📷 Sample Visuals***
